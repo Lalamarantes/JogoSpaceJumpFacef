@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Jogo feito usando o Construct 3 para a aula de Introdução à Computação do Prof. Márcio Maestrelo Funes 😎
+Link de acesso: https://jogo-facef-jump.tiiny.site
 
 ## Menu 🚀
 
@@ -40,11 +41,22 @@ Space Jump é bem intuitivo. As teclas A e D movimentam o jogador para esquerda 
   <img src = "https://github.com/user-attachments/assets/6a1a1dfa-2771-4b12-8244-ccd279861aef">
   <img src = "https://github.com/user-attachments/assets/fc11ac21-98f9-43ad-901b-1c496a03d9ab"><br>
   Event Sheet do Menu<br>
-  <img src = "https://github.com/user-attachments/assets/88ac8e31-9328-4687-8bda-5bc1f9d8d96d">
+  <img src = "https://github.com/user-attachments/assets/88ac8e31-9328-4687-8bda-5bc1f9d8d96d"><br><br>
+  Tutorial Firebase<br>
+  <img src = "https://github.com/user-attachments/assets/2bd65ee4-71f8-432c-9a3d-8f8e691a4791">
+  <img src = "https://github.com/user-attachments/assets/a9cd10c9-c56a-4ac2-81a1-63b69a91eb24">
+  <img src = "https://github.com/user-attachments/assets/0ce7330c-4510-436c-a033-8dd05c96f35d">
+  <img src = "https://github.com/user-attachments/assets/afbf432e-30f4-47b0-b964-3f9c1d763f54">
+  <img src = "https://github.com/user-attachments/assets/cf20b8bd-c4b6-44e9-a4c7-378facc82d8a">
+  <img src = "https://github.com/user-attachments/assets/2b8a4b6f-5db2-4f59-b049-b6a4271284cb">
+  <img src = "https://github.com/user-attachments/assets/1c2f9a4c-4a4d-48eb-89c9-0b78103a8914">
+  <img src = "https://github.com/user-attachments/assets/4ac77df2-440c-478b-83d8-bd58c990ad65">
+  <img src = "https://github.com/user-attachments/assets/26a0ac09-b8ce-46aa-a3db-3fb0e6d40e63">
+  <img src = "https://github.com/user-attachments/assets/9cc06b45-ea8a-45f9-b4f7-5f0d9939f3a5">
 </div>
 
 ---
 
 ## Mais 🤝
 
-O projeto conta com efeitos sonoros para tornar a experiência ainda mais divertida ao pular entre as plataformas, ao colidir com o inimigo e pela duração do jogo. Ao perder ou ganhar, é possível inserir seu nome no ranking de melhor pontuação, já que conta com um banco de dados Firebase. 
+O projeto conta com efeitos sonoros para tornar a experiência ainda mais divertida ao pular entre as plataformas, ao colidir com o inimigo e pela duração do jogo. Ao perder ou ganhar, é possível inserir seu nome no ranking de melhor pontuação, já que conta com um banco de dados Firebase. A partir do tutorial do Firebase acima, o link é colado na Event Sheet do jogo, como consta nos eventos 24, 25 e 26.
