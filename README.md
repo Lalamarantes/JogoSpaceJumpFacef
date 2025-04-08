@@ -25,9 +25,11 @@ O objetivo do jogo é guiar o personagem numa série de plataformas sem cair. O 
 
 Space Jump é bem intuitivo. As teclas A e D movimentam o jogador para esquerda e para a direita, respectivamente. Para atirar, basta clicar com o botão esquerdo do mouse. A barra de espaço volta ao Menu quando o jogo acaba.
 
-## Linguagens 🚀
+## Imagens 🚀
 
-Mostre suas habilidades de programação com estilo! Utilize nossos ícones de linguagens para destacar as tecnologias envolvidas em seus projetos. Esses ícones são amplamente reconhecidos pela comunidade de desenvolvedores e adicionam um toque especial ao seu README.
+<div align = "center">
+  ![Image](https://github.com/user-attachments/assets/2bc99f30-d587-471f-82bf-1a2eb1af1ccd)
+</div>
 
 ---
 
