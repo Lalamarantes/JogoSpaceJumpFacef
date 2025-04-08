@@ -34,13 +34,13 @@ Space Jump é bem intuitivo. As teclas A e D movimentam o jogador para esquerda 
   Interface<br>
   <img src = "https://github.com/user-attachments/assets/d54acdac-88c0-451d-9f40-3c3af313bee4"><br><br>
   Event Sheet<br>
-  <img src = "https://github.com/user-attachments/assets/fb3b98ff-a025-4380-9b87-9bd2d65abb26">
-  <img src = "https://github.com/user-attachments/assets/7317a5ee-d211-49b8-94b9-1cf6bc6c4762">
-  <img src = "https://github.com/user-attachments/assets/09d83331-ad9c-4b8d-88c3-d0295d57a4d1">
-  <img src = "https://github.com/user-attachments/assets/4977d17a-607d-43b5-8587-858259e8e420">
-  <img src = "https://github.com/user-attachments/assets/dd616862-ae86-47f6-8dd9-a17f9a5f839e"><br>
+  <img src = "https://github.com/user-attachments/assets/8ed27ef6-4959-4e76-9a9f-16746e08e793">
+  <img src = "https://github.com/user-attachments/assets/189752b3-f18d-4094-82e5-2e102f210b00">
+  <img src = "https://github.com/user-attachments/assets/8c796972-ef23-4735-a6e9-7d2e6e0457cf">
+  <img src = "https://github.com/user-attachments/assets/6a1a1dfa-2771-4b12-8244-ccd279861aef">
+  <img src = "https://github.com/user-attachments/assets/fc11ac21-98f9-43ad-901b-1c496a03d9ab"><br>
   Event Sheet do Menu<br>
-  <img src = "https://github.com/user-attachments/assets/bd5ba0b9-73ae-42a7-80d1-8f96178a5bbb">
+  <img src = "https://github.com/user-attachments/assets/88ac8e31-9328-4687-8bda-5bc1f9d8d96d">
 </div>
 
 ---
