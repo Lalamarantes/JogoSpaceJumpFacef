@@ -38,7 +38,8 @@ Space Jump é bem intuitivo. As teclas A e D movimentam o jogador para esquerda 
   <img src = "https://github.com/user-attachments/assets/7317a5ee-d211-49b8-94b9-1cf6bc6c4762">
   <img src = "https://github.com/user-attachments/assets/09d83331-ad9c-4b8d-88c3-d0295d57a4d1">
   <img src = "https://github.com/user-attachments/assets/4977d17a-607d-43b5-8587-858259e8e420">
-  <img src = "https://github.com/user-attachments/assets/dd616862-ae86-47f6-8dd9-a17f9a5f839e">
+  <img src = "https://github.com/user-attachments/assets/dd616862-ae86-47f6-8dd9-a17f9a5f839e"><br>
+  Event Sheet do Menu<br>
   <img src = "https://github.com/user-attachments/assets/bd5ba0b9-73ae-42a7-80d1-8f96178a5bbb">
 </div>
 
