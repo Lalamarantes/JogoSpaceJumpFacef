@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Jogo feito usando o Construct 3 para a aula de Introdução à Computação do Prof. Márcio Maestrelo Funes 😎
+Jogo feito usando o Construct 3 para a aula de Introdução à Computação do Prof. Márcio Maestrelo Funes 😎<br>
 Link de acesso: https://lalete.itch.io/space-jump
 
 ## Menu 🚀
