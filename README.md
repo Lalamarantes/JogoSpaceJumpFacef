@@ -13,6 +13,10 @@ O Construct 3 é uma ótimo editor para desenvolver games em HTML5. Seu sistema 
 
 O objetivo do jogo é guiar o personagem numa série de plataformas sem cair. O lado esquerdo do jogo está conectado com o lado direito, o que faz com que o jogador vá de um lado para o outro sem perder sua vida ou seus pontos. Há diversas plataformas: uma fixa, uma móvel, e duas de armadilha. Há uma mola que impulsiona a velocidade do personagem e moedas para serem coletadas durante o percurso, que aumentam a pontuação de 10 em 10. Inimigos causadores de danos também estão dispostos pelo jogo, fazendo com que o personagem perca sua chance de avanço. O jogador tem a possibilidade de atirar uma bola de gelo a uma dada distância para eliminar seus inimigos e seguir nas plataformas. O jogo termina quando se atinge o topo ou quando o personagem colide com um inimigo ou cai das plataformas.
 
+## Firebase 🛹
+O Firebase é uma plataforma de Backend-as-a-Service (BaaS), criada pelo Google, ela fornece infraestrutura de back-end pronta para quem desenvolve aplicativos. Ao usar o Firebase, os desenvolvedores podem se concentrar na criação da aplicação em si e focar menos na parte de configuração e manutenção de servidores. Pode-se pensar nela como uma caixa de ferramentas repleta de recursos para melhorar e expandir aplicativos de maneira mais eficiente, sem preocupações com hospedagem, configuração ou segurança, pois o Firebase já faz isso automaticamente.
+Os bancos de dados são uma parte crucial de muitas aplicações. Eles são usados para armazenar, recuperar, atualizar e gerenciar dados de maneira organizada e eficiente permitindo que os aplicativos possam gerenciar grandes volumes de dados oferecendo experiências personalizadas aos usuários e aumentando a segurança dos dados.
+
 ## Como Jogar ✨
 
 Space Jump é bem intuitivo. As teclas A e D movimentam o jogador para esquerda e para a direita, respectivamente. Para atirar, basta clicar com o botão esquerdo do mouse. A barra de espaço volta ao Menu quando o jogo acaba.
