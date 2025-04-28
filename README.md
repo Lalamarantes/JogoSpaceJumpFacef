@@ -5,14 +5,6 @@
 Jogo feito usando o Construct 3 para a aula de Introdução à Computação do Prof. Márcio Maestrelo Funes 😎<br>
 Link de acesso: https://lalete.itch.io/space-jump
 
-## Menu 🚀
-
-- [Sobre o Construct3](https://github.com/DiasEllen26/template-readme/tree/main/construct)
-- [O Jogo](https://github.com/DiasEllen26/template-readme/tree/main/jogo)
-- [Como Jogar](https://github.com/DiasEllen26/template-readme/blob/main/cards/instrucoes.md)
-- [Imagens](https://github.com/DiasEllen26/template-readme/blob/main/cards/imagens.md)
-- [Mais](https://github.com/DiasEllen26/template-readme/blob/main/icones/mais.md)
-
 ## Sobre o Construct 3 🙋‍♂️
 
 O Construct 3 é uma ótimo editor para desenvolver games em HTML5. Seu sistema de lógica é baseado na criação de bloco de eventos, o que permite um aprendizado de mais fácil entendimento, além de acessível. Além disso, permite que linguagens como JavaScript e C++ sejam usadas. É um site gratuíto, mas também existe a opção de assinatura paga, que não necessita de instalação e as atualizações são automáticas. O construct 3 permite também que o usuário exporte suas criações para diversas plataformas sem a necessidade de exportadores adicionais, além de funcionar em modo offline e em diferentes sistemas operacionais.  
