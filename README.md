@@ -55,4 +55,4 @@ Space Jump é bem intuitivo. As teclas A e D movimentam o jogador para esquerda 
 
 ## Mais 🤝
 
-O projeto conta com efeitos sonoros para tornar a experiência ainda mais divertida ao pular entre as plataformas, ao colidir com o inimigo e pela duração do jogo. Ao perder ou ganhar, é possível inserir seu nome no ranking de melhor pontuação, já que conta com um banco de dados Firebase. A partir do tutorial do Firebase acima, o link é colado na Event Sheet do jogo, como consta nos eventos 24, 25 e 26.
+O projeto conta com efeitos sonoros para tornar a experiência ainda mais divertida ao pular entre as plataformas, ao colidir com o inimigo e pela duração do jogo. Ao perder ou ganhar, é possível inserir seu nome no ranking de melhor pontuação, já que conta com um banco de dados Firebase. A partir do tutorial do Firebase acima, o link é inserido na Event Sheet do jogo, como consta nos eventos 24, 25 e 26.
